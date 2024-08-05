@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science and business student at the University of Michigan passionate about exploring new technologies and building software.
+Welcome to my GitHub profile! I'm a student studying computer science and finance at the University of Michigan -- I enjoy learning about new technologies and working on interesting ideas.
 
 
 # 💻 Tech Stack:
